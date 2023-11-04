@@ -1,7 +1,7 @@
 {
     "id": "full-compendium",
     "title": "Full Compendium",
-    "version": "0.3.4",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "simon",
@@ -160,6 +160,6 @@
     ],
     "url": "https://github.com/Kastier1/full-compendium",
     "manifest": "https://raw.githubusercontent.com/Kastier1/full-compendium/main/module.json",
-    "download": "https://github.com/Kastier1/full-compendium/archive/refs/tags/v1.0.0.zip",
+    "download": "https://github.com/Kastier1/full-compendium/archive/refs/tags/v1.0.1.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
