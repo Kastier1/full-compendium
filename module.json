@@ -1,7 +1,7 @@
 {
     "id": "full-compendium",
     "title": "Full Compendium",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "authors": [
         {
             "name": "simon",
@@ -35,7 +35,7 @@
             "path": "packs/5e-creatures.db",
             "entity": "Actor",
             "type": "Actor",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-backgrounds",
@@ -43,7 +43,7 @@
             "path": "packs/5e-backgrounds.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-background-features",
@@ -51,7 +51,7 @@
             "path": "packs/5e-background-features.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-classes",
@@ -59,7 +59,7 @@
             "path": "packs/5e-classes.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-class-features",
@@ -67,7 +67,7 @@
             "path": "packs/5e-class-features.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-creature-abilities",
@@ -75,7 +75,7 @@
             "path": "packs/5e-creature-abilities.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-feats",
@@ -83,7 +83,7 @@
             "path": "packs/5e-feats.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-items",
@@ -91,7 +91,7 @@
             "path": "packs/5e-items.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-races",
@@ -99,7 +99,7 @@
             "path": "packs/5e-races.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-racial-features",
@@ -107,7 +107,7 @@
             "path": "packs/5e-racial-features.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-spells",
@@ -115,7 +115,7 @@
             "path": "packs/5e-spells.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-subclasses",
@@ -123,7 +123,7 @@
             "path": "packs/5e-subclasses.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-journals",
@@ -131,7 +131,7 @@
             "path": "packs/5e-journals.db",
             "entity": "JournalEntry",
             "type": "JournalEntry",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-macros",
@@ -139,7 +139,7 @@
             "path": "packs/5e-macros.db",
             "entity": "Macro",
             "type": "Macro",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-roll-tables",
@@ -147,7 +147,7 @@
             "path": "packs/5e-roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable",
-            "package": "5e-complete"
+            "package": "full-compendium"
         },
         {
             "name": "5e-trade-goods",
@@ -155,7 +155,7 @@
             "path": "packs/5e-trade-goods.db",
             "entity": "Item",
             "type": "Item",
-            "package": "5e-complete"
+            "package": "full-compendium"
         }
     ],
     "url": "https://github.com/Kastier1/full-compendium",
